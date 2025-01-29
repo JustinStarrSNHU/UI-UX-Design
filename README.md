@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# Hello, and welcome to the SDLC Repository of my Academic Projects🖐️
+# Hello, and welcome to the UI/UX Design and Development Repository of my Academic Projects🖐️
 
 Explored UI/UX design concepts with a focus on industry standards and best practices. Conducted user testing, wireframing, and prototyping to inform user experience design.
 
